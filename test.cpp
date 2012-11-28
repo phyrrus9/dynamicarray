@@ -1,4 +1,4 @@
-#include <dynamicarray>
+#include "dynamicarray.h"
 #include <cstring>
 #include <iostream>
 using namespace std;
